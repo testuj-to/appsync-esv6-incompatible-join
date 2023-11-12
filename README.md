@@ -1,5 +1,5 @@
 
-# Reproduction of AS-Script bug
+# Reproduction of AS-Script `Array.prototype.join()` bug
 
 _Original issue can be found here: [https://github.com/aws/aws-appsync-community/issues/335](https://github.com/aws/aws-appsync-community/issues/335)_
 
@@ -12,6 +12,6 @@ _Original issue can be found here: [https://github.com/aws/aws-appsync-community
 3. Test the output in AppSync console
 4. Run `make destroy`
 
-## Screenshot of execpected output
+## Screenshot of unexpected output
 
 ![Eyes remaining to view this image: 1](output-screenshot.png)
